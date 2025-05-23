@@ -1,4 +1,4 @@
 node_modules
 .env
 dist
-back/.env.local
+back/.env.local.DS_Store
