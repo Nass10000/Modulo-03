@@ -25,7 +25,7 @@ Este módulo entrena conceptos avanzados de backend como middleware personalizad
 - **dotenv** para manejar entornos
 - **bcrypt** para validación de credenciales
 - **nodemon** para desarrollo
-
+  entre otras.
 ---
 
 ## 🗂️ Estructura del proyecto
